@@ -1,0 +1,3 @@
+# SINGLE firingMode nem lő torpedót, ha meghibásodás történt.
+GT4500,1,100,0,0
+TORPEDO,SINGLE

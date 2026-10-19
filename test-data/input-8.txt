@@ -1,0 +1,3 @@
+# SINGLE firingMode lő a második tárral, ha az első meghibásodik
+GT4500,1,100,1,0
+TORPEDO,SINGLE
