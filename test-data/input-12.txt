@@ -1,0 +1,4 @@
+# SINGLE firingMode a az elsővel tüzel ismét, ha a második üres egy tüzelés után
+GT4500,1,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
