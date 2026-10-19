@@ -1,0 +1,3 @@
+# ALL firingMode kilo legalább 1 torpedót.
+GT4500,0,0,1,0
+TORPEDO,ALL

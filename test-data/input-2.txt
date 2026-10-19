@@ -1,0 +1,3 @@
+# SINGLE firingModemósodlagos tárból lő, ha az első üres.
+GT4500,0,0,1,0
+TORPEDO,SINGLE
